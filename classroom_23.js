@@ -29,7 +29,7 @@ class WrapPokemon extends CorePokemon {
     this.type = type;
 
   }
-
+ 
 }
 
 //CorePokemon에는 없지만 WrapPokemon에서 확장한 type에 해당하는 "전기"라는 값을 인자로 넣었다.
